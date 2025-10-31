@@ -26,6 +26,7 @@
       opacity: 1;
       transform: translateY(0);
     }
+    
 
     /* Colores distintos para diferenciar secciones */
     #services { background: linear-gradient(135deg, #001642, #ff5e62); color: white; }
@@ -236,4 +237,9 @@
   background-color: rgba(0,0,0,0.8);
 }
 /* --- FIN: ESTILOS CORREGIDOS --- */
+#specialists{
+      display: flex;
+      flex-direction: column;
+      justify-content: center
+    }
 
