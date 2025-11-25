@@ -38,7 +38,6 @@
     #video-section { background: linear-gradient(135deg, #001642, #001642); color: white;  }
 
 
-
     h1 {
       font-size: 3rem;
       margin-bottom: 1rem;
@@ -243,14 +242,9 @@
       flex-direction: column;
       justify-content: center
     }
-
-
 #video-section{
   object-fit: contain;
 }
 #services h5{
   font-weight: bold;
-}
-section{
-  height: 100px;
 }
