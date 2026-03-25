@@ -82,8 +82,11 @@
     }
   
     #limpieza,#extraccion,#endodoncia,#brackets,#corona,#resina,#diseñosonrisa,#coronasypuentes,#protesisdentalremovible{
-      height: 200px;
-      width: 300px;
+     width: 100%;       
+  height: 200px;     
+  object-fit: cover; 
+  border-radius: 8px; 
+  margin-top: 15px;
     }
     #services{
       display: flex;
