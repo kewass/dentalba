@@ -269,3 +269,6 @@ html, body {
     max-width: 100%;
     overflow-x: hidden; /* Esto es clave: prohíbe el scroll lateral */
 }
+a{
+  text-decoration: none;
+}
